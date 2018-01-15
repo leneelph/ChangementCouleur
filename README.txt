@@ -1,5 +1,5 @@
 # READ ME
 
-1. Ouvrez le fichier changementcouleur.html dans votre navigateur.
+1. Ouvrez le fichier html/changementcouleur.html dans votre navigateur.
 
-2. Appuyez sur la touche R pour changer la couleur des paragraphes en rouge.
+2. Appuyez sur les touches R, J, V et B pour changer la couleur des paragraphes
